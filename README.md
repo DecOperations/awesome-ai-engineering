@@ -93,14 +93,15 @@ Try out open source models instantly.
 - [Simplepid.ai](SimplePod)
 
 ### Structured output
-- SGLang
-- outlines
-- Instructor
-- Marginalia
+- SGLang ([sgl-project/sglang](https://github.com/sgl-project/sglang))
+- outlines ([dottxt-ai/outlines](https://github.com/dottxt-ai/outlines))
+- Instructor ([instructor-js](https://instructor-ai.github.io/instructor-js/))
+- Marginalia ([Pleias/marginalia](https://github.com/Pleias/marginalia))
 
 ### Prompt engineering
 - [ATLAS](https://github.com/VILA-Lab/ATLAS)
 - DSPy
+- Ax LLM (https://axllm.dev/start/quick/)
 - [Microsoft llmlingua prompt compression](https://github.com/microsoft/LLMLingua)
 
 
